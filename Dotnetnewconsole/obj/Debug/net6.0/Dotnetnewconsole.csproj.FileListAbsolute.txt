@@ -1,0 +1,15 @@
+D:\Учеба\Программирование\C#\Lesson1\Dotnetnewconsole\obj\Debug\net6.0\Dotnetnewconsole.csproj.AssemblyReference.cache
+D:\Учеба\Программирование\C#\Lesson1\Dotnetnewconsole\obj\Debug\net6.0\Dotnetnewconsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Программирование\C#\Lesson1\Dotnetnewconsole\obj\Debug\net6.0\Dotnetnewconsole.AssemblyInfoInputs.cache
+D:\Учеба\Программирование\C#\Lesson1\Dotnetnewconsole\obj\Debug\net6.0\Dotnetnewconsole.AssemblyInfo.cs
+D:\Учеба\Программирование\C#\Lesson1\Dotnetnewconsole\obj\Debug\net6.0\Dotnetnewconsole.csproj.CoreCompileInputs.cache
+D:\Учеба\Программирование\C#\Lesson1\Dotnetnewconsole\bin\Debug\net6.0\Dotnetnewconsole.exe
+D:\Учеба\Программирование\C#\Lesson1\Dotnetnewconsole\bin\Debug\net6.0\Dotnetnewconsole.deps.json
+D:\Учеба\Программирование\C#\Lesson1\Dotnetnewconsole\bin\Debug\net6.0\Dotnetnewconsole.runtimeconfig.json
+D:\Учеба\Программирование\C#\Lesson1\Dotnetnewconsole\bin\Debug\net6.0\Dotnetnewconsole.dll
+D:\Учеба\Программирование\C#\Lesson1\Dotnetnewconsole\bin\Debug\net6.0\Dotnetnewconsole.pdb
+D:\Учеба\Программирование\C#\Lesson1\Dotnetnewconsole\obj\Debug\net6.0\Dotnetnewconsole.dll
+D:\Учеба\Программирование\C#\Lesson1\Dotnetnewconsole\obj\Debug\net6.0\refint\Dotnetnewconsole.dll
+D:\Учеба\Программирование\C#\Lesson1\Dotnetnewconsole\obj\Debug\net6.0\Dotnetnewconsole.pdb
+D:\Учеба\Программирование\C#\Lesson1\Dotnetnewconsole\obj\Debug\net6.0\Dotnetnewconsole.genruntimeconfig.cache
+D:\Учеба\Программирование\C#\Lesson1\Dotnetnewconsole\obj\Debug\net6.0\ref\Dotnetnewconsole.dll
